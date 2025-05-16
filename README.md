@@ -34,5 +34,5 @@ A simple, modern weather web app that allows users to search for real-time weath
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/CamargoCode/Weather-App
 cd weather-app
