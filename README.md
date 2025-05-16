@@ -16,7 +16,7 @@ A simple, modern weather web app that allows users to search for real-time weath
 
 ## 📷 Preview
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](WeatherApp.png)
 
 ---
 
